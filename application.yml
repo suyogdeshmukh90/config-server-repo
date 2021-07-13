@@ -6,4 +6,4 @@ spring:
   boot:
     admin:
       client:
-        url: http://admin:admin@localhost:9090/
+        url: http://admin:admin@localhost:8888/
